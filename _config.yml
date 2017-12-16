@@ -1,7 +1,7 @@
 # Site settings
 title: 星尘 Blog
 SEOTitle: 月夜 | 星尘
-header-img: img/home-bg.jpg
+header-img: img/th7.jpeg
 email: strSpecial@163.com
 description: ""
 keyword: ""
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "折磨自己，无所顾忌"
-sidebar-avatar: /img/header.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/th8.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
