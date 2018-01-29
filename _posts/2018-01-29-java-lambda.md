@@ -195,7 +195,7 @@ Lambda由以下几部分组成
 
 ## 参考资料
 
-1.[lambdaexpressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) 
-2.[Lambda并行能力测试](http://www.importnew.com/11113.html) 
-3.[anonymousclasses](https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html) 
-4.[abstract](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
+1. [lambdaexpressions](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) 
+2. [Lambda并行能力测试](http://www.importnew.com/11113.html) 
+3. [anonymousclasses](https://docs.oracle.com/javase/tutorial/java/javaOO/anonymousclasses.html) 
+4. [abstract](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
