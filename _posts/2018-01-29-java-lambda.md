@@ -7,6 +7,7 @@ author:     "宋军庆"
 catalog: true
 tags:
     - JAVA8
+    - JAVA8
 ---
 
 
